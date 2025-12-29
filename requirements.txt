@@ -1,0 +1,8 @@
+matplotlib==3.6.2
+mygeotab==0.9.3
+numpy==2.4.0
+pandas==1.5.2
+plotly==5.13.0
+pydeck==0.8.1b0
+scikit_learn==1.8.0
+streamlit==1.24.1
