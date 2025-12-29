@@ -1,0 +1,2 @@
+activeFrom,activeTo,comment,displayed,externalReference,fillColor,id,mustIdentifyStops,name,points,zoneTypes,groups,geometryType
+1986-01-01 00:00:00+00:00,2050-01-01 00:00:00+00:00,,True,,"{'a': 255, 'b': 128, 'g': 0, 'r': 128}",b2,True,WH Prag,"[{'x': 14.455150793351299, 'y': 50.08431649165056}, {'x': 14.45435100786674, 'y': 50.08472328695561}, {'x': 14.453556098947251, 'y': 50.084069283279355}, {'x': 14.454604598418177, 'y': 50.083696903974534}, {'x': 14.455150793351299, 'y': 50.08431649165056}]",['ZoneTypeOfficeId'],[{'id': 'b2797'}],Polygon

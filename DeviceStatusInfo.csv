@@ -1,0 +1,2 @@
+bearing,currentStateDuration,exceptionEvents,isDeviceCommunicating,isDriving,latitude,longitude,speed,dateTime,device,driver,isHistoricLastDriver,groups
+211,05:01:36,[],True,False,37.7506294,-3.74437928,0,2025-12-29 19:09:27.086000+00:00,{'id': 'b103'},"{'driverGroups': [{'id': 'b2E76'}], 'id': 'b2FE', 'isDriver': True}",False,"[{'id': 'GroupVehicleId'}, {'id': 'GroupDieselId'}, {'id': 'b2E76'}]"

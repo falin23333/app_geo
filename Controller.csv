@@ -1,0 +1,600 @@
+codeId,code,id,name,source,version
+232,232,aVskaPY4sCEGSIDCDGMKy_Q,**CONTROLLER 232,SourceJ1939Id,000000000000026b
+0,0,a-YHiK6OXuESyj7fZ6cCykw,Controller 0 - Engine,SourceJ1708Id,0000000000000002
+1,1,aZSuwYP5Gq0a2nnaRS3GUfg,Controller 1 - Engine,SourceJ1708Id,0000000000000003
+2,2,amrpi1HWvQku4wb7B1jqbqA,Controller 2 - Engine,SourceJ1708Id,0000000000000004
+3,3,aC1g85vw3ZEiu833G9aj0EA,Controller 3 - Engine,SourceJ1708Id,0000000000000005
+4,4,a2XEJa4Tdg0K65cTCN9aKmw,Controller 4 - Engine,SourceJ1708Id,0000000000000006
+5,5,aLu-6chgVvkmJiJicj6usyg,Controller 5 - Engine,SourceJ1708Id,0000000000000007
+6,6,aDM-JLd6hokuD0QaiPuiVGw,Controller 6 - Engine,SourceJ1708Id,0000000000000008
+7,7,aSQvnNQK-hU2BGTH7hPu0PQ,Controller 7 - Engine,SourceJ1708Id,0000000000000009
+8,8,aCOS1r56UPkmWJk3X7xwGOw,Controller 8 - Brakes tractor,SourceJ1708Id,000000000000000a
+9,9,a7UzsekeMp0KuNlT2eBWPPg,Controller 9 - Brakes tractor,SourceJ1708Id,000000000000000b
+10,10,aajEmaBt9_EmjoB-cQBV3Mg,Controller 10 - Brakes trailer,SourceJ1708Id,000000000000000c
+11,11,a-BMB_4ORKE-xy63dzzhMSA,Controller 11 - Brakes trailer,SourceJ1708Id,000000000000000d
+12,12,akrK2_bdDWEWhVmn4LBokdQ,Controller 12 - Tires tractor,SourceJ1708Id,000000000000000e
+13,13,atzBpk6GvdE-eGsvHAVVSOg,Controller 13 - Tires tractor,SourceJ1708Id,000000000000000f
+14,14,aXMKDehO-jUmT0y25dNcFlw,Controller 14 - Tires trailer,SourceJ1708Id,0000000000000010
+15,15,a-L3RKR5_KkGjQYxy8Y4xdw,Controller 15 - Tires trailer,SourceJ1708Id,0000000000000011
+16,16,aBdNwN1vEHUKNJsIdamVYtw,Controller 16 - Suspension tractor,SourceJ1708Id,0000000000000012
+17,17,apeNwxJqfrUCehb6E9947hw,Controller 17 - Suspension tractor,SourceJ1708Id,0000000000000013
+18,18,a402cNSqSgUWw9a3Wkuq6yw,Controller 18 - Suspension trailer,SourceJ1708Id,0000000000000014
+19,19,aUGU5luZS_Eu-SVWPavekRA,Controller 19 - Suspension trailer,SourceJ1708Id,0000000000000015
+20,20,az_AOrokogUSFSWj6YPdDSw,Controller 20 - Transmission,SourceJ1708Id,0000000000000016
+21,21,axIzALUM1R0mZ0X9EPegj2w,Controller 21 - Transmission,SourceJ1708Id,0000000000000017
+22,22,a5nNHTP7pLkOQNWGhB62QaA,Controller 22 - Transmission,SourceJ1708Id,0000000000000018
+23,23,aO-43X5KDq0Sm2pvUGqNJAQ,Controller 23 - Transmission,SourceJ1708Id,0000000000000019
+24,24,aioarL2imJEOixyZhtiwDlg,Controller 24 - Transmission,SourceJ1708Id,000000000000001a
+25,25,aFp34Dji9wESs9pgJh7_Q1w,Controller 25 - Transmission,SourceJ1708Id,000000000000001b
+26,26,aLHnI5683SU6R7zLyAoOOCw,Controller 26 - Transmission,SourceJ1708Id,000000000000001c
+27,27,azOLbUO7lskm92oAg8ymwdg,Controller 27 - Transmission,SourceJ1708Id,000000000000001d
+28,28,aMn21K29qCU-H6i7htutKLg,Controller 28 - Electrical charging system,SourceJ1708Id,000000000000001e
+29,29,aSgEofkTVNkSI1Ooy8Me_Yw,Controller 29 - Electrical charging system,SourceJ1708Id,000000000000001f
+30,30,aRHP4oupqy0ymJrOEFbxoTw,Controller 30 - Electrical,SourceJ1708Id,0000000000000020
+31,31,a1B4GXK19zEqaN6y7Vnkq8g,Controller 31 - Electrical,SourceJ1708Id,0000000000000021
+32,32,acnF4bHXVJUK_tAxf4Lc3iA,Controller 32 - Electrical,SourceJ1708Id,0000000000000022
+33,33,aVirvHxQqZk6FbPOPaFaktA,Controller 33 - Cargo refrigeration/heating,SourceJ1708Id,0000000000000023
+34,34,atz7ViSgOGEuL1YmfHDuFZQ,Controller 34 - Cargo refrigeration/heating,SourceJ1708Id,0000000000000024
+35,35,aW-Mww-Nmakazhj2fEFx3CA,Controller 35 - Cargo refrigeration/heating,SourceJ1708Id,0000000000000025
+36,36,aEPtB-7Sy6ECCcmpgaWhvvw,Controller 36 - Instrument cluster,SourceJ1708Id,0000000000000026
+37,37,a7b8Dt0riTEOwbH4ittv8Rg,Controller 37 - Instrument cluster,SourceJ1708Id,0000000000000027
+38,38,a9_d8xucN-k2WzH-S-_oSHw,Controller 38 - Instrument cluster,SourceJ1708Id,0000000000000028
+39,39,aV-XPvxd2-0uiMp95oQtHxQ,Controller 39 - Instrument cluster,SourceJ1708Id,0000000000000029
+40,40,aqPZ6PKzApEmMumTOTtgF9Q,Controller 40 - Instrument cluster,SourceJ1708Id,000000000000002a
+41,41,aZWd5DkP_gUODFwWyTVT1Uw,Controller 41 - Driver information center,SourceJ1708Id,000000000000002b
+42,42,a9P03EySf4EyGSp-V8JZu-w,Controller 42 - Driver information center,SourceJ1708Id,000000000000002c
+43,43,awee4h6zJ1UeyeaJ6yXg0yA,Controller 43 - Driver information center,SourceJ1708Id,000000000000002d
+44,44,aZi1JurcXkk6Bfk6UyMUThQ,Controller 44 - Driver information center,SourceJ1708Id,000000000000002e
+45,45,a_dnNs_Q0J0KuhdjORLlmbQ,Controller 45 - Driver information center,SourceJ1708Id,000000000000002f
+46,46,aN4aiutY3HUK_WA57qZbmVQ,Controller 46 - Cab climate control,SourceJ1708Id,0000000000000030
+47,47,aNsZe8rs170eKVuiS1_tK4A,Controller 47 - Cab climate control,SourceJ1708Id,0000000000000031
+48,48,aOPMj3uqjyECDSn8QK2mbJg,Controller 48 - Diagnostic systems,SourceJ1708Id,0000000000000032
+49,49,aVYVWt8RHt0eNUhODoKd18w,Controller 49 - Diagnostic systems,SourceJ1708Id,0000000000000033
+50,50,apTcE668BqUWnw59AFAnJYg,Controller 50 - Diagnostic systems,SourceJ1708Id,0000000000000034
+51,51,a2ycCNY0MCEW0r1DIMHD6_A,Controller 51 - Diagnostic systems,SourceJ1708Id,0000000000000035
+52,52,ay9UO7pA5CEai0xFBxkt0Gg,Controller 52 - Diagnostic systems,SourceJ1708Id,0000000000000036
+53,53,aCLYmZRLLyUifmLGGEjFiZg,Controller 53 - Diagnostic systems,SourceJ1708Id,0000000000000037
+54,54,anIPTEXeJd0itBwB0O12rSg,Controller 54 - Diagnostic systems,SourceJ1708Id,0000000000000038
+55,55,aZ6y7K39N-02K7PVdP8w7iA,Controller 55 - Diagnostic systems,SourceJ1708Id,0000000000000039
+56,56,apKyPxjmavUKgq2mlpNujQQ,Controller 56 - Trip recorder,SourceJ1708Id,000000000000003a
+57,57,afHMHT7ZsjEi7BZ0ZuvQVhA,Controller 57 - Trip recorder,SourceJ1708Id,000000000000003b
+58,58,avzWFqGD3IEe7SPJT5INkMQ,Controller 58 - Trip recorder,SourceJ1708Id,000000000000003c
+59,59,aOgwF6d8bv0WBWlhNivKbTQ,Controller 59 - Trip recorder,SourceJ1708Id,000000000000003d
+60,60,a996bm6pSUEWa8EEW-OQ3eA,Controller 60 - Trip recorder,SourceJ1708Id,000000000000003e
+61,61,aNhipHOVbqkCoFSPuTsxSIg,Controller 61 - Trip recorder,SourceJ1708Id,000000000000003f
+62,62,aZiwenpf9c0q4Pm0ShJWn2g,Controller 62 - Turbocharger,SourceJ1708Id,0000000000000040
+63,63,a0TdHWEHn7Uilnaw3YbOEnA,Controller 63 - Turbocharger,SourceJ1708Id,0000000000000041
+64,64,anHBbjA3yk0uBnv0hFP9Y3Q,Controller 64 - Off-board diagnostics,SourceJ1708Id,0000000000000042
+65,65,a-CrXUlvYz06aUage84v89A,Controller 65 - Off-board diagnostics,SourceJ1708Id,0000000000000043
+66,66,aKue1bQ7RokK0-goSAHaDvw,Controller 66 - Off-board diagnostics,SourceJ1708Id,0000000000000044
+67,67,ag6m5O0NIRECOtDg4Ey5OtA,Controller 67 - Off-board diagnostics,SourceJ1708Id,0000000000000045
+68,68,a-R5Dby7KEUyE5VHfaT7jEw,Controller 68 - Off-board diagnostics,SourceJ1708Id,0000000000000046
+128,128,ControllerJ1708EngineId,Controller 128 - Engine #1,SourceJ1708Id,0000000000000047
+129,129,ControllerJ1708TurbochargerId,Controller 129 - Turbocharger,SourceJ1708Id,0000000000000048
+130,130,ControllerTransmissionId,Controller 130 - Transmission,SourceJ1708Id,0000000000000049
+131,131,ControllerJ1708PowerTakeoffId,Controller 131 - Power takeoff,SourceJ1708Id,000000000000004a
+132,132,ControllerAxlePowerUnitId,Controller 132 - Axle power unit,SourceJ1708Id,000000000000004b
+133,133,ControllerAxleTrailerId,Controller 133 - Axle trailer,SourceJ1708Id,000000000000004c
+136,136,ControllerBrakesPowerUnitId,Controller 136 - Brakes power unit,SourceJ1708Id,000000000000004d
+137,137,ControllerBrakesTrailerNo1Id,Controller 137 - Brakes trailer #1,SourceJ1708Id,000000000000004e
+138,138,ControllerBrakesTrailerNo2Id,Controller 138 - Brakes trailer #2,SourceJ1708Id,000000000000004f
+139,139,ControllerBrakesTrailerNo3Id,Controller 139 - Brakes trailer #3,SourceJ1708Id,0000000000000050
+140,140,ControllerInstrumentClusterId,Controller 140 - Instrument cluster,SourceJ1708Id,0000000000000051
+141,141,ControllerJ1708TripRecorderId,Controller 141 - Trip recorder,SourceJ1708Id,0000000000000052
+142,142,ControllerVehicleManagementSystemId,Controller 142 - Vehicle management system,SourceJ1708Id,0000000000000053
+143,143,ControllerJ1708FuelSystemId,Controller 143 - Fuel system,SourceJ1708Id,0000000000000054
+144,144,ControllerJ1708CruiseControlId,Controller 144 - Cruise control,SourceJ1708Id,0000000000000055
+145,145,ControllerRoadSpeedIndicatorId,Controller 145 - Road speed indicator,SourceJ1708Id,0000000000000056
+146,146,ControllerCabClimateControlId,Controller 146 - Cab climate control,SourceJ1708Id,0000000000000057
+147,147,ControllerCargoRefrigerationHeatingTrailerId,Controller 147-Cargo refrigeration/heating trailer,SourceJ1708Id,0000000000000058
+150,150,ControllerSuspensionPowerUnitId,Controller 150 - Suspension power unit,SourceJ1708Id,0000000000000059
+151,151,ControllerSuspensionTrailerId,Controller 151 - Suspension trailer,SourceJ1708Id,000000000000005a
+154,154,ControllerDiagnosticSystemsPowerUnitId,Controller 154 - Diagnostic systems power unit,SourceJ1708Id,000000000000005b
+155,155,ControllerDiagnosticSystemsTrailerId,Controller 155 - Diagnostic systems trailer,SourceJ1708Id,000000000000005c
+157,157,aIlNA_5S5QkGwi-kjxNhuwQ,Controller 157 - Park brake controller,SourceJ1708Id,000000000000005d
+158,158,ControllerElectricalChargingSystemId,Controller 158 - Electrical charging system,SourceJ1708Id,000000000000005e
+159,159,ControllerProximityDetectorFrontId,Controller 159 - Proximity detector front,SourceJ1708Id,000000000000005f
+160,160,ControllerProximityDetectorRearId,Controller 160 - Proximity detector rear,SourceJ1708Id,0000000000000060
+161,161,ControllerAerodynamicControlUnitId,Controller 161 - Aerodynamic control unit,SourceJ1708Id,0000000000000061
+162,162,ControllerVehicleNavigationUnitId,Controller 162 - Vehicle navigation unit,SourceJ1708Id,0000000000000062
+163,163,ControllerJ1708VehicleSecurityId,Controller 163 - Vehicle security,SourceJ1708Id,0000000000000063
+164,164,ControllerMultiplexId,Controller 164 - Multiplex,SourceJ1708Id,0000000000000064
+165,165,ControllerCommunicationUnitGroundId,Controller 165 - Communication unit-ground,SourceJ1708Id,0000000000000065
+166,166,ControllerTiresPowerUnitId,Controller 166 - Tires power unit,SourceJ1708Id,0000000000000066
+167,167,ControllerTiresTrailerId,Controller 167 - Tires trailer,SourceJ1708Id,0000000000000067
+168,168,ControllerTiresTrailerNo2Id,Controller 168 - Tires trailer #2,SourceJ1708Id,0000000000000068
+169,169,ControllerTiresTrailerNo3Id,Controller 169 - Tires trailer #3,SourceJ1708Id,0000000000000069
+170,170,ControllerElectricalId,Controller 170 - Electrical,SourceJ1708Id,000000000000006a
+171,171,ControllerDriverInformationCenterNo1Id,Controller 171 - Driver information center #1,SourceJ1708Id,000000000000006b
+172,172,ControllerOffboardDiagnosticsNo1Id,Controller 172 - Off-board diagnostics #1,SourceJ1708Id,000000000000006c
+173,173,ControllerEngineRetarderId,Controller 173 - Engine retarder,SourceJ1708Id,000000000000006d
+174,174,ControllerCrankingStartingSystemId,Controller 174 - Cranking/starting system,SourceJ1708Id,000000000000006e
+175,175,ControllerEngineNo2Id,Controller 175 - Engine #2,SourceJ1708Id,000000000000006f
+176,176,ControllerTransmissionAdditionalHybridControlModuleId,C176 - Trans. additional hybrid control module,SourceJ1708Id,0000000000000070
+177,177,ControllerParticulateTrapSystemId,Controller 177 - Particulate trap system,SourceJ1708Id,0000000000000071
+178,178,ControllerVehicleSensorsToDataConverterId,Controller 178 - Vehicle sensors to data converter,SourceJ1708Id,0000000000000072
+179,179,ControllerDataLoggingComputerId,Controller 179 - Data logging computer,SourceJ1708Id,0000000000000073
+180,180,ControllerOffboardDiagnosticsNo2Id,Controller 180 - Off-board diagnostics #2,SourceJ1708Id,0000000000000074
+181,181,ControllerCommunicationUnitSatelliteId,Controller 181 - Communication unit-satellite,SourceJ1708Id,0000000000000075
+182,182,ControllerOffboardProgrammingStationId,Controller 182 - Off-board programming station,SourceJ1708Id,0000000000000076
+183,183,ControllerEngineNo3Id,Controller 183 - Engine #3,SourceJ1708Id,0000000000000077
+184,184,ControllerRearAxleSteeringControllerId,Controller 184 - Rear axle steering controller,SourceJ1708Id,0000000000000078
+185,185,ControllerJ1708PneumaticSystemControllerId,Controller 185 - Pneumatic system controller,SourceJ1708Id,0000000000000079
+186,186,ControllerTiresControlUnitId,Controller 186 - Tires control unit,SourceJ1708Id,000000000000007a
+187,187,ControllerVehicleManagementSystemNo2Id,C187-HD:Veh. mngm't sys #2/MT:Veh. cntrl hd unit,SourceJ1708Id,000000000000007b
+188,188,ControllerVehicleManagementSystemNo3Id,C188-HD:Veh. mngm't sys #3/MT:Veh. logic ctrl unit,SourceJ1708Id,000000000000007c
+189,189,aMlRZ8gg6bEW-lV7xnWMcnQ,Controller 189 - Vehicle head signs,SourceJ1708Id,000000000000007d
+190,190,aVhj-I-7up0uBTep3kR3YgQ,C190-Refrigerant mngmt protection and diagnostics,SourceJ1708Id,000000000000007e
+191,191,aO-uLDw6GNUWp1SIhzUi0-g,C191-Vehicle location unit-differential correction,SourceJ1708Id,000000000000007f
+192,192,a0BJUgJKCAUuGIkbzfLVwnw,Controller 192 - Front door (door #1) status unit,SourceJ1708Id,0000000000000080
+193,193,a8BQmXqWQ30iuMuDuPvgEAw,Controller 193 - Middle door (door #2) status unit,SourceJ1708Id,0000000000000081
+194,194,axBMh-YOECU6N9Kv-y56UeA,Controller 194 - Rear door (door #3) status unit,SourceJ1708Id,0000000000000082
+195,195,aDvogXCT4WkWHp7QIrkZG4g,Controller 195 - Annunciator unit,SourceJ1708Id,0000000000000083
+196,196,aZzLsUr0xmU-nbSJNLxK03w,Controller 196 - Fare collection unit,SourceJ1708Id,0000000000000084
+197,197,alGIq-OSpa0CsTOecn0QXug,Controller 197 - Passenger counter unit #1,SourceJ1708Id,0000000000000085
+198,198,aPXq0TollLkaGa8hZ_d-3BA,Controller 198 - Schedule adherence unit,SourceJ1708Id,0000000000000086
+199,199,aRmYXcOwxn0ODr4iGjgwyug,Controller 199 - Route adherence unit,SourceJ1708Id,0000000000000087
+200,200,a95m_qTv3bECO3CJ8CAglew,C200-Env. monitor unit / aux cab climate control,SourceJ1708Id,0000000000000088
+201,201,aOpWhlUDpKUmD99dofoMtdA,Controller 201-Vehicle status points monitor unit,SourceJ1708Id,0000000000000089
+202,202,aAgUuzQOxBU27eHJHlj7JJw,Controller 202 - High speed communications unit,SourceJ1708Id,000000000000008a
+203,203,a4q8Hq4wBtUiwc5dvoH0uog,Controller 203 - Mobile data terminal unit,SourceJ1708Id,000000000000008b
+204,204,acip5BGPEY0-HVoPSz5Fk9Q,Controller 204 - Vehicle proximity right side,SourceJ1708Id,000000000000008c
+205,205,aLiKtkBw20Eeh4qlh7jqb5w,Controller 205 - Vehicle proximity left side,SourceJ1708Id,000000000000008d
+206,206,atyoB1t99ok-278nJJ2vh8A,C206-Base unit (radio gateway to fixed end),SourceJ1708Id,000000000000008e
+207,207,anNiKxi2snUyfYk9grAgWiQ,C207-Bridge from SAE J1708 drivetrain link,SourceJ1708Id,000000000000008f
+208,208,atCSE5BRdXUyo7wg5cbHQPg,Controller 208 - Maintenance printer,SourceJ1708Id,0000000000000090
+209,209,ajbrU2tl_rkG8vN5pmHEu1g,Controller 209 - 5th wheel hitch monitoring device,SourceJ1708Id,0000000000000091
+210,210,adMHlWp6b9kCa76cvo9oHiQ,Controller 210 - Bus chasis idenfitication number,SourceJ1708Id,0000000000000092
+211,211,aDYgm44QBbkaEURxnUoZrsQ,Controller 211 - Smart card terminal,SourceJ1708Id,0000000000000093
+212,212,alIFwIvTGZUGeBgJjammyQA,Controller 212 - Mobile data terminal,SourceJ1708Id,0000000000000094
+213,213,aFacgMZ-Fs0SN68kG2TcqcA,Controller 213 - Vehicle control head touch screen,SourceJ1708Id,0000000000000095
+214,214,ay57xRr0eEEaQzGr_YrPqAQ,Controller 214 - Silent alarm unit,SourceJ1708Id,0000000000000096
+215,215,arhdKfF8zY0Wa8H3EHhL9Bg,Controller 215 - Surveillance microphone,SourceJ1708Id,0000000000000097
+216,216,aDowt_mHxP0uc68tqLglbJg,Controller 216-Lighting control administrator unit,SourceJ1708Id,0000000000000098
+217,217,aEb51vOahh0S4BQBAtl1yUA,C217 - Tractor/trailer gateway tractor mounted,SourceJ1708Id,0000000000000099
+218,218,aHupKbZWgZ0aqMc9RB_rlIg,C218 - Tractor/trailer gateway tractor mounted,SourceJ1708Id,000000000000009a
+219,219,aypDFfQOp3EKyVCjJznLwyw,Controller 219 - Collision avoidance systems,SourceJ1708Id,000000000000009b
+220,220,auCq71cqX0kGwxtVlN0pLyA,Controller 220 - Tachograph,SourceJ1708Id,000000000000009c
+221,221,a03-Z1r0UzUauBHvPIp0LjA,Controller 221 - Driver information center #2,SourceJ1708Id,000000000000009d
+222,222,aUcIdJFmYLkW22mDN7nicVA,Controller 222 - Driveline retarder,SourceJ1708Id,000000000000009e
+223,223,a6-aAHoQCMEGJ1WnvENPUIw,Controller 223-Transmission shift console-primary,SourceJ1708Id,000000000000009f
+224,224,aJg30tMySTEuPj_dLSxLSug,Controller 224 - Parking heater,SourceJ1708Id,00000000000000a0
+225,225,azRVqt9OWbkeEduwzhqYimw,C225 - Weighing system axle group #1 / vehicle,SourceJ1708Id,00000000000000a1
+226,226,aYo9sUxXZyEqMBwvNG2kLAw,Controller 226 - Weighing system axle group #2,SourceJ1708Id,00000000000000a2
+227,227,aHNmRvYWi3E62YnknMhVIDw,Controller 227 - Weighing system axle group #3,SourceJ1708Id,00000000000000a3
+68,68,a3BrFu3s4_UikPfnzn8gzAg,ECU #68,SourceObdSaId,000000000000016b
+228,228,adn9QagzhrkiSuUWw6imMlQ,Controller 228 - Weighing system axle group #4,SourceJ1708Id,00000000000000a4
+229,229,addrAH4NH4kePLCy1saEWTQ,Controller 229 - Weighing system axle group #5,SourceJ1708Id,00000000000000a5
+230,230,apvyvfeczRUiEGrhf2r4k8Q,Controller 230 - Weighing system axle group #6,SourceJ1708Id,00000000000000a6
+231,231,a1CMDWmihcEWjOMac2me_oA,Controller 231 - Communication unit-cellular,SourceJ1708Id,00000000000000a7
+232,232,aqxMPT4VcgU2zQuO9oGNvrg,Controller 232 - Safety restraint system #1,SourceJ1708Id,00000000000000a8
+233,233,aCQ5ZkmLJf0alSVWcM9Qy6g,Controller 233 - Intersection preemption emitter,SourceJ1708Id,00000000000000a9
+234,234,aOd2-3NBalUO6ITeMVwUPtw,Controller 234 - Instrument cluster #2,SourceJ1708Id,00000000000000aa
+235,235,arWub41ACMkSLEgoNTH8mzw,Controller 235 - Engine oil control system,SourceJ1708Id,00000000000000ab
+236,236,apV75bo4U0USzI_m8ZsV2GA,Controller 236 - Entry assist control #1,SourceJ1708Id,00000000000000ac
+237,237,aBM6ZpsgU9E2_KP6dHqDBDw,Controller 237 - Entry assist control #2,SourceJ1708Id,00000000000000ad
+238,238,a7A2k63IF602z17hQP_Ip_g,Controller 238 - Idle adjust system,SourceJ1708Id,00000000000000ae
+239,239,aDLu4nzuLXUSBqvt83nD_hw,Controller 239 - Passenger counter unit #2,SourceJ1708Id,00000000000000af
+240,240,aL-9Y9KFWqEeyJt26aRqidA,Controller 240 - Passenger counter unit #3,SourceJ1708Id,00000000000000b0
+241,241,ayiT-yrFDa0micZ74LVCJjg,Controller 241 - Fuel tank monitor,SourceJ1708Id,00000000000000b1
+242,242,asmn3CHil0UWsK0pci23UpQ,Controller 242 - Door #4 status unit,SourceJ1708Id,00000000000000b2
+243,243,aWlbe0FPfWkeVDUKxMQmMAw,Controller 243 - Door #5 status unit,SourceJ1708Id,00000000000000b3
+244,244,apbk7rMZm7UOKzZa0bgDAPw,Controller 244 - Door #6 status unit,SourceJ1708Id,00000000000000b4
+245,245,aluUN-Px_WUqEC_7W9GPE5w,C245-HD:Weighing sys disp./MT:Door #7 status unit,SourceJ1708Id,00000000000000b5
+246,246,a_OQ9pNB1C0mFyW6UgOKv9A,C246-HD:Brakes trailer #4/MT:Door #8 status unit,SourceJ1708Id,00000000000000b6
+247,247,agVzSj4pzZkufpoHRQegLcw,Controller 247 - Brakes trailler #5,SourceJ1708Id,00000000000000b7
+248,248,aR0o7wBh1jkesbfK--GtmlQ,Controller 248 - Forward road image processor,SourceJ1708Id,00000000000000b8
+249,249,aPawKozgIrEK_mjBF1ke6kA,Controller 249 - Body controller,SourceJ1708Id,00000000000000b9
+250,250,aXsQevxVI7kSTr7p3O3cx8Q,Controller 250 - Steering column unit,SourceJ1708Id,00000000000000ba
+253,253,av-QR3E2mIUOmWHxUq6vpug,Controller 253-Brake stroke alert monitor tractor,SourceJ1708Id,00000000000000bb
+254,254,admKokJW78EWxuyheK1UiDg,Controller 254 - Safety restraint system #2,SourceJ1708Id,00000000000000bc
+255,255,apK68cE8P30avl2ZsUqgq_A,Controller 255 - Reserved to be assigned,SourceJ1708Id,00000000000000bd
+0,0,ControllerJ1939EngineNo1Id,Engine #1,SourceJ1939Id,00000000000000be
+1,1,ControllerJ1939EngineNo2Id,Engine #2,SourceJ1939Id,00000000000000bf
+2,2,ControllerJ1939TurbochargerId,Turbocharger,SourceJ1939Id,00000000000000c0
+3,3,ControllerTransmissionNo1Id,Transmission #1,SourceJ1939Id,00000000000000c1
+4,4,ControllerTransmissionNo2Id,Transmission #2,SourceJ1939Id,00000000000000c2
+5,5,ControllerShiftConsolePrimaryId,Shift console - primary,SourceJ1939Id,00000000000000c3
+6,6,ControllerShiftConsoleSecondaryId,Shift console - secondary,SourceJ1939Id,00000000000000c4
+7,7,ControllerJ1939PowerTakeOffMainRearId,Power takeoff - (main or rear),SourceJ1939Id,00000000000000c5
+8,8,ControllerAxleSteeringId,Axle - steering,SourceJ1939Id,00000000000000c6
+9,9,ControllerAxleDriveNo1Id,Axle - drive #1,SourceJ1939Id,00000000000000c7
+10,10,ControllerAxleDriveNo2Id,Axle - drive #2,SourceJ1939Id,00000000000000c8
+11,11,ControllerBrakesSystemControllerId,Brakes - system controller,SourceJ1939Id,00000000000000c9
+12,12,ControllerBrakesSteerAxleId,Brakes - steer axle,SourceJ1939Id,00000000000000ca
+13,13,ControllerBrakesDriveAxleNo1Id,Brakes - drive axle #1,SourceJ1939Id,00000000000000cb
+14,14,ControllerBrakesDriveAxleNo2Id,Brakes - drive axle #2,SourceJ1939Id,00000000000000cc
+15,15,ControllerRetarderEngineId,Retarder - engine,SourceJ1939Id,00000000000000cd
+16,16,ControllerRetarderDrivelineId,Retarder - driveline,SourceJ1939Id,00000000000000ce
+17,17,ControllerJ1939CruiseControlId,Cruise control,SourceJ1939Id,00000000000000cf
+18,18,ControllerJ1939FuelSystemId,Fuel system,SourceJ1939Id,00000000000000d0
+19,19,ControllerSteeringControllerId,Steering controller,SourceJ1939Id,00000000000000d1
+20,20,ControllerSuspensionSteerAxleId,Suspension - steer axle,SourceJ1939Id,00000000000000d2
+21,21,ControllerSuspensionDriveAxleNo1Id,Suspension - drive axle #1,SourceJ1939Id,00000000000000d3
+22,22,ControllerSuspensionDriveAxleNo2Id,Suspension - drive axle #2,SourceJ1939Id,00000000000000d4
+23,23,ControllerInstrumentClusterNo1Id,Instrument cluster #1,SourceJ1939Id,00000000000000d5
+24,24,ControllerJ1939TripRecorderId,Trip recorder,SourceJ1939Id,00000000000000d6
+25,25,ControllerPassengerOperatorClimateControl1Id,Passenger-operator climate control #1,SourceJ1939Id,00000000000000d7
+26,26,ControllerAlternatorElectricalChargingSystemId,Alternator/electrical charging system,SourceJ1939Id,00000000000000d8
+27,27,ControllerAerodynamicControlId,Aerodynamic control,SourceJ1939Id,00000000000000d9
+28,28,ControllerVehicleNavigationId,Vehicle navigation,SourceJ1939Id,00000000000000da
+29,29,ControllerJ1939VehicleSecurityId,Vehicle security,SourceJ1939Id,00000000000000db
+30,30,ControllerElectricalSystemId,Electrical system,SourceJ1939Id,00000000000000dc
+31,31,ControllerStarterSystemId,Starter system,SourceJ1939Id,00000000000000dd
+32,32,ControllerTractorTrailerBridgeNo1Id,Tractor-trailer bridge #1,SourceJ1939Id,00000000000000de
+33,33,ControllerBodyControllerId,Body controller,SourceJ1939Id,00000000000000df
+34,34,ControllerAuxiliaryValveControlId,Aux valve control or engine air system valve ctrl,SourceJ1939Id,00000000000000e0
+35,35,ControllerHitchControlId,Hitch control,SourceJ1939Id,00000000000000e1
+36,36,ControllerPowerTakeOffFrontSecondaryId,Power takeoff (front or secondary),SourceJ1939Id,00000000000000e2
+37,37,ControllerOffVehicleGatewayId,Off vehicle gateway,SourceJ1939Id,00000000000000e3
+38,38,ControllerVirtualTerminalId,Virtual terminal (in cab),SourceJ1939Id,00000000000000e4
+39,39,ControllerManagementComputerNo1Id,Management computer #1,SourceJ1939Id,00000000000000e5
+40,40,ControllerCabDisplayNo1Id,Cab display #1,SourceJ1939Id,00000000000000e6
+41,41,ControllerRetarderExhaustEngineNo1Id,Retarder exhaust engine #1,SourceJ1939Id,00000000000000e7
+42,42,ControllerHeadwayControllerId,Headway controller,SourceJ1939Id,00000000000000e8
+43,43,ControllerOnBoardDiagnosticUnitId,On-board diagnostic unit,SourceJ1939Id,00000000000000e9
+44,44,ControllerRetarderExhaustEngineNo2Id,Retarder exhaust engine #2,SourceJ1939Id,00000000000000ea
+45,45,ControllerEnduranceBrakingSystemId,Endurance braking system,SourceJ1939Id,00000000000000eb
+46,46,ControllerHydraulicPumpControllerId,Hydraulic pump controller,SourceJ1939Id,00000000000000ec
+47,47,ControllerSuspensionSystemControllerNo1Id,Suspension - system controller #1,SourceJ1939Id,00000000000000ed
+48,48,ControllerJ1939PneumaticSystemControllerId,Pneumatic - system controller,SourceJ1939Id,00000000000000ee
+49,49,ControllerCabControllerPrimaryId,Cab controller - primary,SourceJ1939Id,00000000000000ef
+50,50,ControllerCabControllerSecondaryId,Cab controller - secondary,SourceJ1939Id,00000000000000f0
+51,51,ControllerTirePressureControllerId,Tire pressure controller,SourceJ1939Id,00000000000000f1
+52,52,ControllerIgnitionControlModuleNo1Id,Ignition control module #1,SourceJ1939Id,00000000000000f2
+53,53,ControllerIgnitionControlModuleNo2Id,Ignition control module #2,SourceJ1939Id,00000000000000f3
+54,54,ControllerSeatControlNo1Id,Seat control #1,SourceJ1939Id,00000000000000f4
+55,55,ControllerLightingOperatorControlsId,Lighting - operator controls,SourceJ1939Id,00000000000000f5
+56,56,ControllerRearAxleSteeringControllerNo1Id,Rear axle steering controller #1,SourceJ1939Id,00000000000000f6
+57,57,ControllerWaterPumpControllerId,Water pump controller,SourceJ1939Id,00000000000000f7
+58,58,ControllerPassengerOperatorClimateControlNo2Id,Passenger-operator climate control #2,SourceJ1939Id,00000000000000f8
+59,59,ControllerTransmissionDisplayPrimaryId,Transmission display - primary,SourceJ1939Id,00000000000000f9
+60,60,ControllerTransmissionDisplaySecondaryId,Transmission display - secondary,SourceJ1939Id,00000000000000fa
+61,61,ControllerExhaustEmissionControllerId,Exhaust emission controller,SourceJ1939Id,00000000000000fb
+62,62,ControllerVehicleDynamicStabilityControllerId,Vehicle dynamic stability controller,SourceJ1939Id,00000000000000fc
+63,63,ControllerOilSensorId,Oil sensor,SourceJ1939Id,00000000000000fd
+64,64,ControllerSuspensionSystemControllerNo2Id,Suspension - system controller #2,SourceJ1939Id,00000000000000fe
+65,65,ControllerInformationSystemControllerNo1Id,Information system controller #1,SourceJ1939Id,00000000000000ff
+66,66,ControllerRampControlId,Ramp control,SourceJ1939Id,0000000000000100
+67,67,ControllerClutchConverterUnitId,Clutch/converter unit,SourceJ1939Id,0000000000000101
+68,68,ControllerAuxiliaryHeaterNo1Id,Auxiliary heater #1,SourceJ1939Id,0000000000000102
+69,69,ControllerAuxiliaryHeaterNo2Id,Auxiliary heater #2,SourceJ1939Id,0000000000000103
+70,70,ControllerEngineValveControllerId,Engine valve controller,SourceJ1939Id,0000000000000104
+71,71,ControllerChassisControllerNo1Id,Chassis controller #1,SourceJ1939Id,0000000000000105
+72,72,ControllerChassisControllerNo2Id,Chassis controller #2,SourceJ1939Id,0000000000000106
+73,73,ControllerPropulsionBatteryChargerId,Propulsion battery charger,SourceJ1939Id,0000000000000107
+74,74,ControllerCommunicationsUnitCellularId,Communications unit cellular,SourceJ1939Id,0000000000000108
+75,75,ControllerCommunicationsUnitSatelliteId,Communications unit satellite,SourceJ1939Id,0000000000000109
+76,76,ControllerCommunicationsUnitRadioId,Communications unit radio,SourceJ1939Id,000000000000010a
+77,77,ControllerSteeringColumnUnitId,Steering column unit,SourceJ1939Id,000000000000010b
+78,78,ControllerFanDriveControllerId,Fan drive controller,SourceJ1939Id,000000000000010c
+79,79,ControllerSeatControlNo2Id,Seat control #2,SourceJ1939Id,000000000000010d
+80,80,ControllerParkingBrakeControllerId,Parking brake controller,SourceJ1939Id,000000000000010e
+81,81,ControllerAftertreatmentSystemGasIntakeId,Aftertreatment #1 system gas intake,SourceJ1939Id,000000000000010f
+82,82,ControllerAftertreatmentSystemGasOutletId,Aftertreatment #1 system gas outlet,SourceJ1939Id,0000000000000110
+83,83,ControllerSafetyRestraintSystemId,Safety restraint system,SourceJ1939Id,0000000000000111
+84,84,ControllerCabDisplayNo2Id,Cab display #2,SourceJ1939Id,0000000000000112
+85,85,ajD6RNoawPE-0eRRWauwGYw,Diesel particulate filter controller,SourceJ1939Id,0000000000000113
+86,86,a2pwVniqHG06wtEMm05MDfA,Aftertreatment #2 system gas intake,SourceJ1939Id,0000000000000114
+87,87,ai3L2E_Kj1USL1k8wtPggxQ,Aftertreatment #2 system gas outlet,SourceJ1939Id,0000000000000115
+88,88,aBROmv6njNUanK19HD2UznA,Safety restraint system #2,SourceJ1939Id,0000000000000116
+89,89,aeqHI4nvA3kasXXePkJ1GGg,Atmospheric sensor,SourceJ1939Id,0000000000000117
+90,90,acKs75_NvLUCm3JZm6pIM1g,Powertrain control module,SourceJ1939Id,0000000000000118
+91,91,adrAkAIlNPkO1OZg2rW1sfg,Power systems manager,SourceJ1939Id,0000000000000119
+248,248,aHGL4P3Sfv0q5Yt6gdECyWQ,File server / printer,SourceJ1939Id,000000000000011a
+249,249,aeFJvpQU2-UyQQaWKDiDWjg,Off board diagnostic-service tool #1,SourceJ1939Id,000000000000011b
+250,250,axJpdkxuF9EqN7fg5kJDiOw,Off board diagnostic-service tool #2,SourceJ1939Id,000000000000011c
+251,251,alVC0VOq9o0u3jYRpj4UlZQ,On-board data logger,SourceJ1939Id,000000000000011d
+252,252,arEf3qRjMcUiO-fJkunHTRg,Reserved for experimental use,SourceJ1939Id,000000000000011e
+253,253,a6QseCPc8Y06aDwzSY1IX2A,Reserved for OEM,SourceJ1939Id,000000000000011f
+254,254,amDDkcVDWA0yb7it0-_Er9w,Null address,SourceJ1939Id,0000000000000120
+255,255,avJcM9TfGPkW7FuCMY2itjA,Global (all-any node),SourceJ1939Id,0000000000000121
+66,66,ControllerObdBodyId,Body (B),SourceObdId,0000000000000122
+67,67,ControllerObdChassisId,Chassis (C),SourceObdId,0000000000000123
+80,80,ControllerObdPowertrainId,Powertrain (P),SourceObdId,0000000000000124
+85,85,ControllerObdNetworkingId,Networking (U),SourceObdId,0000000000000125
+0,0,ControllerGoDeviceId,Telematics device,SourceGeotabGoId,0000000000000126
+0,0,aouvVp0Y27EuCoUa0wJMiRQ,ECU #0,SourceObdSaId,0000000000000127
+1,1,aLpQ7uABuVUOJjqSJiVFYwA,ECU #1,SourceObdSaId,0000000000000128
+2,2,aRPQdYmQO1UOsI86RN7NPMw,ECU #2,SourceObdSaId,0000000000000129
+3,3,aJ9pjxFQCrkiqQxYDu8Ba4g,ECU #3,SourceObdSaId,000000000000012a
+4,4,anVrfLc7B_UK_n7-ioOsyBA,ECU #4,SourceObdSaId,000000000000012b
+5,5,apPo1dRDGUEWNwNKDnD5RRg,ECU #5,SourceObdSaId,000000000000012c
+6,6,ahJ-LRWSmSUWAnz_-Zpfh-w,ECU #6,SourceObdSaId,000000000000012d
+7,7,a5D06faGI-k2XWE5SO1TRIg,ECU #7,SourceObdSaId,000000000000012e
+8,8,aKgIy7oouOkmv_ppqsL-rJQ,ECU #8,SourceObdSaId,000000000000012f
+9,9,aKLE-bwoJY0mdO-20952ZGg,ECU #9,SourceObdSaId,0000000000000130
+10,10,ad0X86J-IiEit_QIHyn_A0A,ECU #10,SourceObdSaId,0000000000000131
+11,11,aC3S9x5dT50mGOci_7DxQyg,ECU #11,SourceObdSaId,0000000000000132
+12,12,aHq_8HjP5DkONcFY8eSI5_w,ECU #12,SourceObdSaId,0000000000000133
+13,13,a4Xd_-aCaKkiX-wUQ9KiWog,ECU #13,SourceObdSaId,0000000000000134
+14,14,auJjgGMwUj0auirDXgkfsNw,ECU #14,SourceObdSaId,0000000000000135
+15,15,aFt5ZP9yMyU6gyBhZOJPlsA,ECU #15,SourceObdSaId,0000000000000136
+16,16,aHFEk12n7yECdFfY5E2c0hA,ECU #16,SourceObdSaId,0000000000000137
+17,17,aNe9es1THGUi6WDkl3jgFxg,ECU #17,SourceObdSaId,0000000000000138
+18,18,a58qt1ObxU0qKKbbNNFGM8Q,ECU #18,SourceObdSaId,0000000000000139
+19,19,aIomsU_dSIUeVs12hXD5YgQ,ECU #19,SourceObdSaId,000000000000013a
+20,20,att0aR4bm20iDvVbjasM2QQ,ECU #20,SourceObdSaId,000000000000013b
+21,21,anL_oY4dYgEOGR0WmHh-fdQ,ECU #21,SourceObdSaId,000000000000013c
+22,22,aB8tz9YAOBUKMpzByNdWl-Q,ECU #22,SourceObdSaId,000000000000013d
+23,23,a3blNSUSL_E6EK-JZVC4fgQ,ECU #23,SourceObdSaId,000000000000013e
+24,24,aqZ9AWjOqN0qaXcxcw3bk4A,ECU #24,SourceObdSaId,000000000000013f
+25,25,aKfaoDUdzOE-skwVDBsxMzw,ECU #25,SourceObdSaId,0000000000000140
+26,26,aRjVNL09_VUOdwo3Hb0oyBQ,ECU #26,SourceObdSaId,0000000000000141
+27,27,aHVgxLQ5UNEuFS_uUxmoLug,ECU #27,SourceObdSaId,0000000000000142
+28,28,aNZ3Y4HndME-mekk-3jbiWw,ECU #28,SourceObdSaId,0000000000000143
+29,29,axSrfPaw2NkW5k0ZYRdw92A,ECU #29,SourceObdSaId,0000000000000144
+30,30,a0yPnt5UCm0SxJJXTIXwlpA,ECU #30,SourceObdSaId,0000000000000145
+31,31,aeknMiNQeq0aQxMckkKDwyg,ECU #31,SourceObdSaId,0000000000000146
+32,32,a0OILAPLiL06ewWFaBHYttA,ECU #32,SourceObdSaId,0000000000000147
+33,33,a3PNiKiHJ_Uu6CcUKOAO2IQ,ECU #33,SourceObdSaId,0000000000000148
+34,34,aRSvFswsrekq46Zfk0icBiA,ECU #34,SourceObdSaId,0000000000000149
+35,35,a0Isg8IlK4k2hF2ONYfRVDw,ECU #35,SourceObdSaId,000000000000014a
+36,36,aQKNR5kP5tE6unjFxKWR4tw,ECU #36,SourceObdSaId,000000000000014b
+37,37,a8fYbApHUh0q9KnvP2RcCbA,ECU #37,SourceObdSaId,000000000000014c
+38,38,aZESASj5BqEupq_gzl4lXWQ,ECU #38,SourceObdSaId,000000000000014d
+39,39,aEqFvrjYG5ESEaFtvmPfocQ,ECU #39,SourceObdSaId,000000000000014e
+40,40,avo1alRd580eALqeu2EHzpg,ECU #40,SourceObdSaId,000000000000014f
+41,41,agv0oywwsXk6NRWls3cW-Dw,ECU #41,SourceObdSaId,0000000000000150
+42,42,aGK9kSjn_gk2FnkTmmc3FEw,ECU #42,SourceObdSaId,0000000000000151
+43,43,aS2H4U8RJ2EepYJUmtggyTA,ECU #43,SourceObdSaId,0000000000000152
+44,44,awPuwLAfUGU2QrPmsO8R1XA,ECU #44,SourceObdSaId,0000000000000153
+45,45,aIxS1qnXI00uufmmTSIt9fQ,ECU #45,SourceObdSaId,0000000000000154
+46,46,aRNAnK6JUjEi5t1uZujUdlw,ECU #46,SourceObdSaId,0000000000000155
+47,47,agePhhTosGUiEaRlJ0SVDkg,ECU #47,SourceObdSaId,0000000000000156
+48,48,aS7zz6HwodEm1kwv0_NgTrQ,ECU #48,SourceObdSaId,0000000000000157
+49,49,aBytaWtbhWUW96QjZIsh9UQ,ECU #49,SourceObdSaId,0000000000000158
+50,50,aNBsXCdyWUEivqlLex2UioQ,ECU #50,SourceObdSaId,0000000000000159
+51,51,asDJGxF2b1UWblGmb_Ez_Tw,ECU #51,SourceObdSaId,000000000000015a
+52,52,a7d_nti4opEyT-kr7vbQGRA,ECU #52,SourceObdSaId,000000000000015b
+53,53,a0NLawOOp9EKFlR_CTIUwcA,ECU #53,SourceObdSaId,000000000000015c
+54,54,aASSx4Xo4aEefXG65WyluIw,ECU #54,SourceObdSaId,000000000000015d
+55,55,aG3c-ia-2Q0Cs3DP0B4RsyQ,ECU #55,SourceObdSaId,000000000000015e
+56,56,alnCKOqzDvkaT9OAf-29HvQ,ECU #56,SourceObdSaId,000000000000015f
+57,57,aiB4U3oDQHkWb-eY45w0AfQ,ECU #57,SourceObdSaId,0000000000000160
+58,58,agOP1_gSUG02QalbS1IcbxA,ECU #58,SourceObdSaId,0000000000000161
+59,59,agkN9RX3bgEym8X2onPZj4Q,ECU #59,SourceObdSaId,0000000000000162
+60,60,abRJyoPnX60q8Cw-_Gpm3mA,ECU #60,SourceObdSaId,0000000000000163
+61,61,a_Vaj7lzyM02aH0vwOkIpVQ,ECU #61,SourceObdSaId,0000000000000164
+62,62,ai_5V8nDP1U2N7oDlAR6YWw,ECU #62,SourceObdSaId,0000000000000165
+63,63,a6AtU4nsi9EytLpYs_s5HYg,ECU #63,SourceObdSaId,0000000000000166
+64,64,aiKTIX-uWuEK_5hmgOgkaoA,ECU #64,SourceObdSaId,0000000000000167
+65,65,a1031azQod0y8zYISZUHCkw,ECU #65,SourceObdSaId,0000000000000168
+66,66,aWfVDu2d-6EeB2BwTs-gAtQ,ECU #66,SourceObdSaId,0000000000000169
+67,67,aaI4NVilKhkqDZErmo0ju0g,ECU #67,SourceObdSaId,000000000000016a
+69,69,aVqHKbY8H6kixUk7DUYdNsw,ECU #69,SourceObdSaId,000000000000016c
+70,70,a_nGvAKm8dEucd5k2iMg9gQ,ECU #70,SourceObdSaId,000000000000016d
+71,71,auPGa-5llx0K7M0w4SDnw8A,ECU #71,SourceObdSaId,000000000000016e
+72,72,aFgtIYaHaEUeh3bpjbMYoeA,ECU #72,SourceObdSaId,000000000000016f
+73,73,axi5KCVayqkaW0UMrh_koMg,ECU #73,SourceObdSaId,0000000000000170
+74,74,aefNqZOXWQ0SY23L1DGLKYQ,ECU #74,SourceObdSaId,0000000000000171
+75,75,aiLTTjROTZUmgrgkRN1R-DQ,ECU #75,SourceObdSaId,0000000000000172
+76,76,aIb3mUCr4ckenQ4ahHNX77g,ECU #76,SourceObdSaId,0000000000000173
+77,77,aR3W9TwqIW0GLgGOQ0eG9Ug,ECU #77,SourceObdSaId,0000000000000174
+78,78,aku8N2rG2Z06C20C2GAvBsg,ECU #78,SourceObdSaId,0000000000000175
+79,79,aa2NiSpaUH0WvI1y81IZwnQ,ECU #79,SourceObdSaId,0000000000000176
+80,80,asspygEAXI0KfRy29ZTEMeQ,ECU #80,SourceObdSaId,0000000000000177
+81,81,ax4ySgzkkr0-PoI6g1HWozQ,ECU #81,SourceObdSaId,0000000000000178
+82,82,avI5AWmxy1UOlV1qmY570VA,ECU #82,SourceObdSaId,0000000000000179
+83,83,aisEvSkfvQUWDqHt1UjSANQ,ECU #83,SourceObdSaId,000000000000017a
+84,84,acQHjBrfUW0uDjzYvZogHxA,ECU #84,SourceObdSaId,000000000000017b
+85,85,aDBXO1abTSEmblv2IZMTbFQ,ECU #85,SourceObdSaId,000000000000017c
+86,86,aJ1F8gzGBxUGGuOYr2mGZWQ,ECU #86,SourceObdSaId,000000000000017d
+87,87,aylrMS5gLdkGzVsjbvdScOw,ECU #87,SourceObdSaId,000000000000017e
+88,88,aYMsdd7RiDkm8sSE0dSETow,ECU #88,SourceObdSaId,000000000000017f
+89,89,aDdjFKJIZz0yRzXHqF4TC8Q,ECU #89,SourceObdSaId,0000000000000180
+90,90,aLGx4PwWVA0yHrBNyrMf1SQ,ECU #90,SourceObdSaId,0000000000000181
+91,91,acoWRLTnVM0eqCEqbpydhMg,ECU #91,SourceObdSaId,0000000000000182
+92,92,aa6PZmAISPkaSESJp5xFIWg,ECU #92,SourceObdSaId,0000000000000183
+93,93,a5qgIJgrJ5ECmP0KipCFEdA,ECU #93,SourceObdSaId,0000000000000184
+94,94,aN1eqwLWvzkqVNgStBIMNoQ,ECU #94,SourceObdSaId,0000000000000185
+95,95,aIOLU8XZ4pEGX2-orQx9wnw,ECU #95,SourceObdSaId,0000000000000186
+96,96,aDhQCQMI9XEWGW3t6RPo3_g,ECU #96,SourceObdSaId,0000000000000187
+97,97,apgp4KNneR0uIBDQgu4O2fg,ECU #97,SourceObdSaId,0000000000000188
+98,98,aG1eT6S2yHEuIg-Dgo241NA,ECU #98,SourceObdSaId,0000000000000189
+99,99,aYtkJkgrvzU-68EKN0QyGng,ECU #99,SourceObdSaId,000000000000018a
+100,100,ag5uW8RSQ506Riysx1SwVbw,ECU #100,SourceObdSaId,000000000000018b
+101,101,a5zV8RvnWHkOdoWKBJ8KKDA,ECU #101,SourceObdSaId,000000000000018c
+102,102,a6IjpSTeZ-EWdcpVIYtR3YA,ECU #102,SourceObdSaId,000000000000018d
+103,103,aLshr1tki40mjD7YzBUUw0A,ECU #103,SourceObdSaId,000000000000018e
+104,104,atOhhdXo0wESX1mLJ8RR4VQ,ECU #104,SourceObdSaId,000000000000018f
+105,105,aapTsUhk-bkCHY9kLN8oFgQ,ECU #105,SourceObdSaId,0000000000000190
+106,106,a_bXZ0QRG4U-w2aXFdnE8Fg,ECU #106,SourceObdSaId,0000000000000191
+107,107,aIJVMSnwaiEGuHXtIJH0nRA,ECU #107,SourceObdSaId,0000000000000192
+108,108,awPW_Zmpb-Eqvx_FgUzwYaw,ECU #108,SourceObdSaId,0000000000000193
+109,109,aWkTM-58VxkOpY39WmT2vWw,ECU #109,SourceObdSaId,0000000000000194
+110,110,aocdH33O4n0m7Dx5MSd8FZA,ECU #110,SourceObdSaId,0000000000000195
+111,111,aEZii_-7Uy0e2-ySx3T71Zw,ECU #111,SourceObdSaId,0000000000000196
+112,112,aGwoFlS9Sr0G2TSt_KuKP-g,ECU #112,SourceObdSaId,0000000000000197
+113,113,aY9L0_8-6i06em3ijkj3RYw,ECU #113,SourceObdSaId,0000000000000198
+114,114,arvVbeUqYZEiPRBO_v4glHw,ECU #114,SourceObdSaId,0000000000000199
+115,115,aGrRX03lse0umniBrc92UfQ,ECU #115,SourceObdSaId,000000000000019a
+116,116,a5QUCV_22JE29HvQCqotmbw,ECU #116,SourceObdSaId,000000000000019b
+117,117,adwfNhPdTXkiKlE-qed_sWA,ECU #117,SourceObdSaId,000000000000019c
+118,118,aVfUM3uZxt0mvuwiAZOBW4w,ECU #118,SourceObdSaId,000000000000019d
+119,119,ast8a85ntOUW9ldX5gGyN2Q,ECU #119,SourceObdSaId,000000000000019e
+120,120,ag03QSHmfskyAt1i7REjgZw,ECU #120,SourceObdSaId,000000000000019f
+121,121,a0xCPaNJi_kis5ateC74CCA,ECU #121,SourceObdSaId,00000000000001a0
+122,122,a-8Sy84tp6kCspso7umasXg,ECU #122,SourceObdSaId,00000000000001a1
+123,123,a1amWARlV00evyT1zQU8fkg,ECU #123,SourceObdSaId,00000000000001a2
+124,124,aGua-S_2NZ02OP_CDZWfcDA,ECU #124,SourceObdSaId,00000000000001a3
+125,125,aIJWYCZJ__0mQiM2gG2oE4w,ECU #125,SourceObdSaId,00000000000001a4
+126,126,a9OyHbfnRWE6hwSf2Ib5NJA,ECU #126,SourceObdSaId,00000000000001a5
+127,127,a378dXC5Xh0OBrfFZbF6F-Q,ECU #127,SourceObdSaId,00000000000001a6
+128,128,aWhiq-PH3k0i98TmaenQB9g,ECU #128,SourceObdSaId,00000000000001a7
+129,129,aVNBQBYUBvEuWt2oUr0TgDg,ECU #129,SourceObdSaId,00000000000001a8
+130,130,aW3s1oAX67EG_zLyvGYHcVg,ECU #130,SourceObdSaId,00000000000001a9
+131,131,ajaZqkbffqkOObsenui0LTA,ECU #131,SourceObdSaId,00000000000001aa
+132,132,anYZCqmfNyk6Bmgi3slk0OQ,ECU #132,SourceObdSaId,00000000000001ab
+133,133,afsd2dwZsdkm-abpIUbxitQ,ECU #133,SourceObdSaId,00000000000001ac
+134,134,afJ4cWAkoRkW1oQfFE0KSXg,ECU #134,SourceObdSaId,00000000000001ad
+135,135,aAKO0-sTdQECEOqO2epvtcg,ECU #135,SourceObdSaId,00000000000001ae
+136,136,anyUcAZ7ru0K7l4qZnr1Lbw,ECU #136,SourceObdSaId,00000000000001af
+137,137,aU1Zhp32240SyiDTzdvMmQg,ECU #137,SourceObdSaId,00000000000001b0
+138,138,aIKTH3xn33ECz9bJ26l7RpQ,ECU #138,SourceObdSaId,00000000000001b1
+139,139,aRk_MaO5VfUmYxCHp-pyT9g,ECU #139,SourceObdSaId,00000000000001b2
+140,140,a0Z2w2jAeiUWfpa9UU6dNbw,ECU #140,SourceObdSaId,00000000000001b3
+141,141,allanQyY1xEKo2YN87clmlg,ECU #141,SourceObdSaId,00000000000001b4
+142,142,a28AtonCuLUmWnxNkdXsabA,ECU #142,SourceObdSaId,00000000000001b5
+143,143,a_5yqhcln-kG8MBjMpE1x_g,ECU #143,SourceObdSaId,00000000000001b6
+144,144,aJFM6uoekiUyRWd49N9hy_Q,ECU #144,SourceObdSaId,00000000000001b7
+145,145,abcQF6SIjMEirclTXq5EFaA,ECU #145,SourceObdSaId,00000000000001b8
+146,146,a1NKTjkhZc0-_vMR5t3mMUw,ECU #146,SourceObdSaId,00000000000001b9
+147,147,aV41DIjpqe0maN3nq1haZDw,ECU #147,SourceObdSaId,00000000000001ba
+148,148,aHZsiy3i3z0-wJSUDw7MScA,ECU #148,SourceObdSaId,00000000000001bb
+149,149,aCG4xmJ3y4UC_a1_r3W-sHA,ECU #149,SourceObdSaId,00000000000001bc
+150,150,aA1gtIyAsCUuHUZbX8vmCLg,ECU #150,SourceObdSaId,00000000000001bd
+151,151,aYziv8D1IPkCc9_Se5tQkCw,ECU #151,SourceObdSaId,00000000000001be
+152,152,aXlDluZ0N60SQMmVhMTciHw,ECU #152,SourceObdSaId,00000000000001bf
+153,153,aFSSJFRE3HUec4btADhh0qw,ECU #153,SourceObdSaId,00000000000001c0
+154,154,aq6tr7F5_1UmOucxLsNHpJg,ECU #154,SourceObdSaId,00000000000001c1
+155,155,a0Jc9JZccWESC5rp0WgCu2g,ECU #155,SourceObdSaId,00000000000001c2
+156,156,aCSKBsRLOykiTo3icH8REqQ,ECU #156,SourceObdSaId,00000000000001c3
+157,157,aZlT7ApzrVUaPJlC2CR9mSg,ECU #157,SourceObdSaId,00000000000001c4
+158,158,amaplVxOypkmTZif54sC24g,ECU #158,SourceObdSaId,00000000000001c5
+159,159,avywW_iU1N0mCda83TOr6Vw,ECU #159,SourceObdSaId,00000000000001c6
+160,160,ak4PjE5EQPU-k8GhQg2NR7A,ECU #160,SourceObdSaId,00000000000001c7
+161,161,abXHC2ShTQkCnmuQ2jttT-w,ECU #161,SourceObdSaId,00000000000001c8
+162,162,agVta6Um9GkeqURraSIZsNA,ECU #162,SourceObdSaId,00000000000001c9
+163,163,aqKCXiCwAMkKjhkqKWw2RuA,ECU #163,SourceObdSaId,00000000000001ca
+164,164,aufClYXCAFE6RfPJQ_eZZ3Q,ECU #164,SourceObdSaId,00000000000001cb
+165,165,athyR1dawmUCdfSi6xLzlFA,ECU #165,SourceObdSaId,00000000000001cc
+166,166,a9Meg6CaDRkaoVVU1vuNwLg,ECU #166,SourceObdSaId,00000000000001cd
+167,167,aOvIzGqdT006D60n-NGVwbw,ECU #167,SourceObdSaId,00000000000001ce
+168,168,aZTYn53nLOkSQKwk9MpviSA,ECU #168,SourceObdSaId,00000000000001cf
+169,169,aZb_Qw2l03Uq5hNaMGwWaKA,ECU #169,SourceObdSaId,00000000000001d0
+170,170,as6Jdvnfcw0uCmeH7lPuANg,ECU #170,SourceObdSaId,00000000000001d1
+171,171,atlqVN1vAXUqx-Bu-VU5YBQ,ECU #171,SourceObdSaId,00000000000001d2
+172,172,atqXM9n_mT06VxWfVfrga3Q,ECU #172,SourceObdSaId,00000000000001d3
+173,173,a5m8usu1Vh0eUCZgVdw73Eg,ECU #173,SourceObdSaId,00000000000001d4
+174,174,amvogVUSI2kG0WjeDAsuPFA,ECU #174,SourceObdSaId,00000000000001d5
+175,175,ab5F5ZjQSP0Cgq6rgQdKv6A,ECU #175,SourceObdSaId,00000000000001d6
+176,176,asYvkR0Q2qkqYxobNaF2lVA,ECU #176,SourceObdSaId,00000000000001d7
+177,177,aXMQAsVqdxE-kRHdnP5yLMg,ECU #177,SourceObdSaId,00000000000001d8
+178,178,aNPBdAklJEkesFbFo9PcL-w,ECU #178,SourceObdSaId,00000000000001d9
+179,179,aAnlA7b7um0apHEVVtyW8mg,ECU #179,SourceObdSaId,00000000000001da
+180,180,a8WbO2_mhrkOirGCll7kHGQ,ECU #180,SourceObdSaId,00000000000001db
+181,181,aVg-81JTwx0edB7p-gWFoAA,ECU #181,SourceObdSaId,00000000000001dc
+182,182,aysfDsDM6eUKXbmHCNBtrGg,ECU #182,SourceObdSaId,00000000000001dd
+183,183,aIYgFErnE0kuHWh1PudHB8w,ECU #183,SourceObdSaId,00000000000001de
+184,184,aSn9O3QfxbEu0a9vxBoLHTQ,ECU #184,SourceObdSaId,00000000000001df
+185,185,aGUQlmOicKEuzMVJgP8ZOtw,ECU #185,SourceObdSaId,00000000000001e0
+186,186,alnAFsuwiKkaRghcs4KzyBA,ECU #186,SourceObdSaId,00000000000001e1
+187,187,a3rFeCYKimkqecof3p4Fu-g,ECU #187,SourceObdSaId,00000000000001e2
+188,188,aPayU2CuqWkSFGuD5IAV8tQ,ECU #188,SourceObdSaId,00000000000001e3
+189,189,a8WzIXZM1BkuDFKpDQ1m9ZA,ECU #189,SourceObdSaId,00000000000001e4
+190,190,aFtaDIqRqVk-nweo5Lrmu7g,ECU #190,SourceObdSaId,00000000000001e5
+191,191,ai5EUoo-Z_EORoaaCRfO3Rg,ECU #191,SourceObdSaId,00000000000001e6
+192,192,ajaY7yXuUcUuZrypgiK1jSA,ECU #192,SourceObdSaId,00000000000001e7
+193,193,aWNLKEOQ1SkWLsLO0yU9Qjg,ECU #193,SourceObdSaId,00000000000001e8
+194,194,aMfAtbvRWjk2yahEZIe3maA,ECU #194,SourceObdSaId,00000000000001e9
+195,195,a_CyL6YbssUGKttmdMQyqHw,ECU #195,SourceObdSaId,00000000000001ea
+196,196,aBq8HFzXb3UiApZiddZdOpg,ECU #196,SourceObdSaId,00000000000001eb
+197,197,a3QYFc_GeD0Cu8tT0LRrP7Q,ECU #197,SourceObdSaId,00000000000001ec
+198,198,aTE3mdVBkhkGyCE7F8j6jgw,ECU #198,SourceObdSaId,00000000000001ed
+199,199,aJJ6tT0VVcka3EwbI0RGCQQ,ECU #199,SourceObdSaId,00000000000001ee
+200,200,a1PFfeRSsP0Kh8dmK3i-7fg,ECU #200,SourceObdSaId,00000000000001ef
+201,201,aX9rrMt8pSke8rMW3SY3vEw,ECU #201,SourceObdSaId,00000000000001f0
+202,202,aSOEiO1mBvUqeQoDQCBKDUA,ECU #202,SourceObdSaId,00000000000001f1
+203,203,a7G-TDrzuKEepTAq7Lets0Q,ECU #203,SourceObdSaId,00000000000001f2
+204,204,aSwg0DRW3zE-w_WcqjYQB4w,ECU #204,SourceObdSaId,00000000000001f3
+205,205,at2oRVhNcBkm_rt_-NSpX0A,ECU #205,SourceObdSaId,00000000000001f4
+206,206,ahEDCK7cnAUiF1CCCxrIgnA,ECU #206,SourceObdSaId,00000000000001f5
+207,207,aWQqGnZEsLUe2pa95ipSghw,ECU #207,SourceObdSaId,00000000000001f6
+208,208,aRBsI1G6YLU6OrszJoTxJyA,ECU #208,SourceObdSaId,00000000000001f7
+209,209,aS3TGgiqb2k2w6q2qjlDhvA,ECU #209,SourceObdSaId,00000000000001f8
+210,210,amSlDj8Xyn0y00n4cSp91YQ,ECU #210,SourceObdSaId,00000000000001f9
+211,211,aKPi-Xx9dt0qvVV-fWZo8CQ,ECU #211,SourceObdSaId,00000000000001fa
+212,212,an3s1nvixqkqQePDEm_zS1A,ECU #212,SourceObdSaId,00000000000001fb
+213,213,aGZe0J7hnv0qxcUeRPDnUBw,ECU #213,SourceObdSaId,00000000000001fc
+214,214,aI0fWAT7i60S7znqfkP20RA,ECU #214,SourceObdSaId,00000000000001fd
+215,215,aslv8TSrxp0qJXhxdsLTSaA,ECU #215,SourceObdSaId,00000000000001fe
+216,216,ayIpq1TAx706FYkKf_bKpVA,ECU #216,SourceObdSaId,00000000000001ff
+217,217,aEuHbNELRnE6IHjhajk3Ngg,ECU #217,SourceObdSaId,0000000000000200
+218,218,aY2Z1txZbYkesxpEEqDTcwg,ECU #218,SourceObdSaId,0000000000000201
+219,219,aKRaDg8L4t0OPY-lFi2mVXA,ECU #219,SourceObdSaId,0000000000000202
+220,220,a15GR0ynPB0GSQt-BGtyIbw,ECU #220,SourceObdSaId,0000000000000203
+221,221,a_NL_b6gol0KlFK2vs8KMoA,ECU #221,SourceObdSaId,0000000000000204
+222,222,aLsufMFyLY0G0P3DNHALjYA,ECU #222,SourceObdSaId,0000000000000205
+223,223,aTmhkjqOT20OgiUYyNkpKfg,ECU #223,SourceObdSaId,0000000000000206
+224,224,aGz2KQ0JBDk-VjYC1Xvgb6Q,ECU #224,SourceObdSaId,0000000000000207
+225,225,au1KV9sbpYE2BXL563_Vb-g,ECU #225,SourceObdSaId,0000000000000208
+226,226,awFCOOUILtEq8qKc4EGK-0Q,ECU #226,SourceObdSaId,0000000000000209
+227,227,aT6T6wkFpG0-QwTpk-uXMgA,ECU #227,SourceObdSaId,000000000000020a
+228,228,ab5K51-ad306GU_05bIsG4Q,ECU #228,SourceObdSaId,000000000000020b
+229,229,aIPlGZcyEeUmKLhH-Elogjw,ECU #229,SourceObdSaId,000000000000020c
+230,230,a-KBVRhEuqE-eQgkW6bHseg,ECU #230,SourceObdSaId,000000000000020d
+231,231,aO92T53Wf-0iKXYOd6bZBbA,ECU #231,SourceObdSaId,000000000000020e
+232,232,a7ICuxpcZfUG7Kn-5l7OhyQ,ECU #232,SourceObdSaId,000000000000020f
+233,233,aRA87SLxEmkut_MrPdtmUbQ,ECU #233,SourceObdSaId,0000000000000210
+234,234,aWJwH3bNFE06liVevA0BSOA,ECU #234,SourceObdSaId,0000000000000211
+235,235,aMaQbhN8ujkyIUT-76Wi62w,ECU #235,SourceObdSaId,0000000000000212
+236,236,aFD_MHwQbGkCx5zNpc0V4pQ,ECU #236,SourceObdSaId,0000000000000213
+237,237,aSO1P2C6DikS4w04mEHBUQQ,ECU #237,SourceObdSaId,0000000000000214
+238,238,aoYpNYdceOk2C7CSnkgO4iQ,ECU #238,SourceObdSaId,0000000000000215
+239,239,a7dEay1rjAUKiAR7xztrt4A,ECU #239,SourceObdSaId,0000000000000216
+240,240,aQB1vc3r9XkC8p3t84DkhaQ,ECU #240,SourceObdSaId,0000000000000217
+241,241,aLMBVFFlgTkSW9M3XkUjwZQ,ECU #241,SourceObdSaId,0000000000000218
+242,242,akol9FZu2s0qvF0rzlcMo8w,ECU #242,SourceObdSaId,0000000000000219
+243,243,a8T-07KDsBEK7N8-V-qfUWQ,ECU #243,SourceObdSaId,000000000000021a
+244,244,aYD7o16KYB0ujG_gqEAar2A,ECU #244,SourceObdSaId,000000000000021b
+245,245,aT-4-AuAfVEC3hSMtBN0tBA,ECU #245,SourceObdSaId,000000000000021c
+246,246,a8_FQnoeXjU-vCcKI2_3Usw,ECU #246,SourceObdSaId,000000000000021d
+247,247,a0omdqjsgz0CrRbFRs0yQBQ,ECU #247,SourceObdSaId,000000000000021e
+248,248,a0wAxYrYUw0a9_gXssgaVIw,ECU #248,SourceObdSaId,000000000000021f
+249,249,aPXDJOSRjS0aXzESonrEBJA,ECU #249,SourceObdSaId,0000000000000220
+250,250,anaFWQeFZxkWhsZ2AN7j6tg,ECU #250,SourceObdSaId,0000000000000221
+251,251,aWbCKElZyd02XbcoZZoj97w,ECU #251,SourceObdSaId,0000000000000222
+252,252,a0eMQW4U-0UiUhLJRKB9Qgg,ECU #252,SourceObdSaId,0000000000000223
+253,253,aeftRyftXk027xjjJYEy0cw,ECU #253,SourceObdSaId,0000000000000224
+254,254,axNUjljm_U0aGetZ7w6YHiA,ECU #254,SourceObdSaId,0000000000000225
+255,255,aSt409qnoDEWkTrRsp6b0ew,ECU #255,SourceObdSaId,0000000000000226
+500,244,ControllerObdWwhBodyId,Body (B),SourceObdSaId,0000000000000227
+501,245,ControllerObdWwhChassisId,Chassis (C),SourceObdSaId,0000000000000228
+502,246,ControllerObdWwhPowertrainId,Powertrain (P),SourceObdSaId,0000000000000229
+503,247,ControllerObdWwhNetworkingId,Networking (U),SourceObdSaId,000000000000022a
+2015,223,ajsmJIX-tGk-iukjDbuEdDg,CAN identifier addressed messages by external,SourceObdSaId,000000000000022b
+2016,224,asbsw54AhPk-CG0PlFc0urg,Request CAN identifier from external to ECU #1,SourceObdSaId,000000000000022c
+2017,225,a6DspMnCIIUWPVYlwuVSyuQ,Request CAN identifier from external to ECU #2,SourceObdSaId,000000000000022d
+2018,226,aSD1L_H1JqUGoV4CbTDSvrw,Request CAN identifier from external to ECU #3,SourceObdSaId,000000000000022e
+2019,227,a95E6S9jLQU-QG9hSIbVcFQ,Request CAN identifier from external to ECU #4,SourceObdSaId,000000000000022f
+2020,228,ahOhAcJAhBEaHSeJDBKmaBw,Request CAN identifier from external to ECU #5,SourceObdSaId,0000000000000230
+2021,229,aYUXDHOPETkuJofnnqTHK0Q,Request CAN identifier from external to ECU #6,SourceObdSaId,0000000000000231
+2022,230,ajl7WH-Wp2kemObTPstTLaw,Request CAN identifier from external to ECU #7,SourceObdSaId,0000000000000232
+2023,231,a6xfBmVm0Jky4BXWGsfYNfQ,Request CAN identifier from external to ECU #8,SourceObdSaId,0000000000000233
+2024,232,apLxSARRZj0W8rMgUyMMgTw,Response CAN identifier from ECU #1 to external,SourceObdSaId,0000000000000234
+2025,233,aJocJdXqDc0qH_fuYHHvnrw,Response CAN identifier from ECU #2 to external,SourceObdSaId,0000000000000235
+2026,234,aOPoE07OSDE2ZpM9J9xhwMQ,Response CAN identifier from ECU #3 to external,SourceObdSaId,0000000000000236
+2027,235,ajMvQzcsihUmk-DIPJabWKw,Response CAN identifier from ECU #4 to external,SourceObdSaId,0000000000000237
+2028,236,aGtTy_NwAc02315pL28D5-w,Response CAN identifier from ECU #5 to external,SourceObdSaId,0000000000000238
+2029,237,afr999yCvkE6kkkfhp94Rqw,Response CAN identifier from ECU #6 to external,SourceObdSaId,0000000000000239
+2030,238,aW-Gd0uOKq0aOPJHFo1Wlgw,Response CAN identifier from ECU #7 to external,SourceObdSaId,000000000000023a
+2031,239,aW-MW6-RKD0S7sVMsKrM5KA,Response CAN identifier from ECU #8 to external,SourceObdSaId,000000000000023b
+-1,0,ControllerProprietaryFaultId,Manufacturer Specific,SourceProprietaryId,000000000000023c
+-1,0,ControllerLegacyFaultId,Manufacturer Specific,SourceLegacyId,000000000000023d
+-1,0,ControllerGmcccFaultId,GMCCC,SourceGmcccId,000000000000023e
+-1,0,ControllerBrpFaultId,BRP,SourceBrpId,000000000000023f
+-1,0,ControllerGeotabAiModelFaultId,Geotab AI Model,SourceAIModelId,0000000000000240
+3000,184,ControllerDefaultGeotabAiModelId,Default Geotab AI Model,SourceAIModelId,0000000000000241
+219,219,aHKmdObgmsk-l3VroK7GCxQ,**CONTROLLER 219,SourceJ1939Id,000000000000029e
+1584,48,aPdseqTsUn0O7V_CzTbk7Yw,Engine Control Module,Source14Id,0000000000000243
+1585,49,aQyRbRjrAlE6tFgBICqYDbQ,Brake Control Module,Source14Id,0000000000000244
+1586,50,aZhlT5YDRs0yllJBr37X--g,Transmission Control Module,Source14Id,0000000000000245
+1587,51,aw0TJYrtfL0WzTGFyPitfQg,Electronic Gear Shift Module,Source14Id,0000000000000246
+1588,52,a_y-nqGzGLUiK_F_4F11-kg,On Board Charger,Source14Id,0000000000000247
+1589,53,aUWIdj7dRkkedbQo-ZK6H0Q,Battery Energy Control Module,Source14Id,0000000000000248
+1590,54,aFXr2V6O4wE-d-THYsfh3uQ,Inverter Generator Module,Source14Id,0000000000000249
+1591,55,arfEIVnT690OGKKxT8L_tfQ,Inverter Electric Rear Axle Drive Module,Source14Id,000000000000024a
+1592,56,aZ4reGppr6UKR0e4g_rYXgw,Differential Electric Module,Source14Id,000000000000024b
+1594,58,a_aq_b3x1yEuW7zP4zD5rgg,Engine Sound Module,Source14Id,000000000000024c
+1596,60,a80oAj6hP_kyp_hQrXzSwzg,Transmission Actuator Control Module,Source14Id,000000000000024d
+1597,61,a3uHul0PKF0y4rsY3DZ7wTA,Exhaust Emissions Controller,Source14Id,000000000000024e
+1601,65,aXtwFOxdy8EyEjrxeZF215Q,Battery Pack 1 Controller,Source14Id,000000000000024f
+1602,66,aJFwjtaVeYkaA5Qnzix5asQ,Battery Pack 2 Controller,Source14Id,0000000000000250
+1603,67,aKIKwO1ii9EqETvQMjsmFaQ,Battery Pack 3 Controller,Source14Id,0000000000000251
+1633,97,aHW9J7CYfmEmDsS6P7FXWhQ,Sub Module of the TCM (Gear shift?),Source14Id,0000000000000252
+1217,193,aPZilTmvzHUSBe9Jt_qKThw,**CONTROLLER 1217,SourceObdSaId,00000000000002e4
+1017,249,am78L31_O70uhKl2rBPupFw,**CONTROLLER 1017,SourceObdSaId,00000000000002e5
+225,225,aHMxGmiTiLUejlbGmYuT5QQ,**CONTROLLER 225,SourceJ1939Id,00000000000002a5
+-1,0,ControllerAnyId,***Any Controller,SourceJ1708Id,00000000000002e2
+-1,0,ControllerSource14AnyId,**Any Controller,Source14Id,00000000000002e3
